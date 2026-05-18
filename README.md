@@ -40,18 +40,8 @@
 
 ###
 
-<div align="center">
-</div>
-
-###
-
-<br clear="both">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RicardoGomes07/RicardoGomes07/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RicardoGomes07/RicardoGomes07/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RicardoGomes07/RicardoGomes07/pacman-output/pacman-contribution-graph.svg">
-</picture>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=RicardoGomes07&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ###
 
