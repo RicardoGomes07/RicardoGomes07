@@ -44,6 +44,12 @@
 
 ###
 
-<p align="left">Welcome, I'm Ricardo an Engenharia Informática e de Computadores student at Isel</p>
+<p align="left">Hi, I'm Ricardo! 👋
+
+🎓 Computer Science & Engineering Graduate from ISEL (Instituto Superior de Engenharia de Lisboa).
+
+🚗 Software Engineer at Critical TechWorks, building high-performance, critical software solutions for the automotive industry.
+
+💻 Passionate about software architecture, low-level efficiency, mobile development, and backend systems. Always learning, building, and solving complex engineering challenges.</p>
 
 ###
